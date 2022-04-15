@@ -65,3 +65,5 @@ def question_processing(qquestion):
                 rel = k
                 
     return [sub , rel , obj]
+
+
