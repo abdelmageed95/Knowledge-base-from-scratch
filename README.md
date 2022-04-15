@@ -7,6 +7,9 @@ the required information directly other than searching in blue links. Due to the
 data, it is better to apply the semantic analysis to provide the answer directly to user queries other than keeping it
 hidden in the web pages which requires more effort from the user
 
-Project Workflow
+# Project Workflow
+
 
 <img src="img\power-of-knowledge.jpg" /> 
+
+
