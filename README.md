@@ -2,4 +2,4 @@
  create knowledge base from free text  using python
  
  
-<img src="img\power-of-knowledge.jpg" width="500px" hight="500px"/> 
+<img src="img\power-of-knowledge.jpg" /> 
