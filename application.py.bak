@@ -1,4 +1,0 @@
-import demo
-import json
-
-demo.first()
