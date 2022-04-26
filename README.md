@@ -10,6 +10,6 @@ hidden in the web pages which requires more effort from the user
 # Project Workflow
 
 
-<img src="img\power-of-knowledge.png" /> 
+<img src="img\power-of-knowledge.PNG" /> 
 
 
